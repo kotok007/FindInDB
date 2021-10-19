@@ -1,0 +1,11 @@
+E:\Projects\base_bsmp\base_bsmp\bin\x64\Debug\base_bsmp.exe.config
+E:\Projects\base_bsmp\base_bsmp\bin\x64\Debug\base_bsmp.exe
+E:\Projects\base_bsmp\base_bsmp\bin\x64\Debug\base_bsmp.pdb
+E:\Projects\base_bsmp\base_bsmp\obj\x64\Debug\base_bsmp.formStart.resources
+E:\Projects\base_bsmp\base_bsmp\obj\x64\Debug\base_bsmp.Properties.Resources.resources
+E:\Projects\base_bsmp\base_bsmp\obj\x64\Debug\base_bsmp.csproj.GenerateResource.cache
+E:\Projects\base_bsmp\base_bsmp\obj\x64\Debug\base_bsmp.csproj.CoreCompileInputs.cache
+E:\Projects\base_bsmp\base_bsmp\obj\x64\Debug\base_bsmp.csproj.CopyComplete
+E:\Projects\base_bsmp\base_bsmp\obj\x64\Debug\base_bsmp.exe
+E:\Projects\base_bsmp\base_bsmp\obj\x64\Debug\base_bsmp.pdb
+E:\Projects\base_bsmp\base_bsmp\bin\x64\Debug\System.Data.SQLite.dll
